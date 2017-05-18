@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4274013575">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - umsa-bot" uuid="7293b2e5-920a-494e-9b81-b57f5da05097">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/storage/databases/umsa-bot</jdbc-url>
+    </data-source>
+  </component>
+</project>
